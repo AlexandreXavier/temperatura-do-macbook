@@ -61,3 +61,7 @@ Para reduzir o calor gerado pela própria app, os sensores são lidos de 5 em 5 
 - Não funciona em Macs com Apple Silicon, que usam outros sensores.
 - Os nomes dos sensores foram atribuídos às chaves SMC de um MacBookPro11,2. Noutros modelos, alguns podem estar errados ou faltar.
 - Os diagnósticos são regras simples sobre as leituras. A indicação de pó ou pasta térmica gasta é uma suspeita, porque nenhum sensor a consegue confirmar.
+
+## Licença
+
+[MIT](LICENSE)
